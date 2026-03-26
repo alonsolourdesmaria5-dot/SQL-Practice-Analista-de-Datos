@@ -1,8 +1,8 @@
-# SQL-Practice-Analista-de-Datos
-"Registro de progresos, ejercicios y lógica de negocio en SQL y Análisis de Datos".
-## 📅 Registro de Actividad: 24 de Marzo, 2026
+# SQL-Practice-Data-Analyst
+"Recording progress, exercises, and business logic in SQL and Data Analysis."
+## 📅 Activity Log: March 24, 2026
 
-### Objetivo: SQL Intermedio (Filtros y Lógica de Negocio)
-- **Plataforma:** SQLBolt (Lecciones 1 a 12)
-- **Temas clave:** Filtrado con `WHERE` y unión de tablas con `JOINs`.
-- **Estado:** En progreso ⏳
+### Objective: Intermediate SQL (Filters and Business Logic)
+-**Platform:** SQLBolt (Lessons 1 to 12)
+- **Key topics:** Filtering with `WHERE` and joining tables with `JOINs`.
+- **Status:** In progress⏳
