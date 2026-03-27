@@ -16,3 +16,5 @@ WHERE id = 6;
 SELECT *
 FROM movies
 WHERE year NOT BETWEEN 2000 and 2010
+SELECT title, year
+FROM movies LIMIT 5;
