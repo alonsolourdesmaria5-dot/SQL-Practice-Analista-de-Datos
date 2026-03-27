@@ -13,3 +13,6 @@ Exercise 2 — Tasks
 SELECT *
 FROM movies
 WHERE id = 6;
+SELECT *
+FROM movies
+WHERE year NOT BETWEEN 2000 and 2010
